@@ -2,6 +2,10 @@
 
 Dashboard for analyzing metrics and sales of a call center made wih Python.
 
+<h1 align="left">
+  <img src="assets/giff_01.gif"/>
+</h1>
+
 ### Technologies
 > - Dash
 > - Dash-Core-Components
